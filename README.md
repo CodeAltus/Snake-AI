@@ -5,7 +5,7 @@ I created the __PERFECT__ Snake AI using the A* pathfinding algorithm!
 The A* pathfinding algorithm was used to find the longest possible path between the snake's head and snake's tail. The apple is always on this path and it is eaten as the snake travels on this path. The snake is also never trapped as the snake's body leaves a way out for the snake's head. This program usually takes 1 hour to run.
 
 ## Demo
-You can see my Snake AI in action in https://codealtus.github.io/Snake-AI/
+You can see my Snake AI in action at https://codealtus.github.io/Snake-AI/
 
 ## Disclaimer
 
